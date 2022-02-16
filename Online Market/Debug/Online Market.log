@@ -1,0 +1,32 @@
+﻿  Buyer.cpp
+  Person.cpp
+  Product.cpp
+D:\Online Market\Online Market\Product.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(85,46): warning C4018: '>': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(104,5): warning C4551: function call missing argument list
+D:\Online Market\Online Market\Product.cpp(119,3): warning C4551: function call missing argument list
+D:\Online Market\Online Market\Product.cpp(149,22): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(175,15): warning C4129: 'I': unrecognized character escape sequence
+D:\Online Market\Online Market\Product.cpp(208,22): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(285,20): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(293,20): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(301,20): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(309,20): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(317,20): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(330,20): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Product.cpp(361,20): warning C4018: '<': signed/unsigned mismatch
+  Registration.cpp
+D:\Online Market\Online Market\Registration.cpp(5,21): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Registration.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+D:\Online Market\Online Market\Registration.cpp(265,20): warning C4018: '<': signed/unsigned mismatch
+  Remove.cpp
+  Seller.cpp
+  Source.cpp
+  Generating Code...
+D:\Online Market\Online Market\Registration.cpp(208): warning C4715: 'Registration::Signin': not all control paths return a value
+D:\Online Market\Online Market\Registration.cpp(293): warning C4715: 'Registration::Signin': not all control paths return a value
+D:\Online Market\Online Market\Product.cpp(126): warning C4715: 'Product::DisplayCategories': not all control paths return a value
+D:\Online Market\Online Market\Product.cpp(278): warning C4715: 'Product::Processing': not all control paths return a value
+  Online Market.vcxproj -> D:\Online Market\Debug\Online Market.exe

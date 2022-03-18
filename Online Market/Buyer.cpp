@@ -5,6 +5,7 @@ Buyer::Buyer(string name, string username, string pass, string email, bool type,
 	: Person(name, username, pass, email, type, Id) {
 	this->address = address;
 	this->phone_number = phone_number;
+	// comment test
 }
 
 Buyer::Buyer(void) : Person() {
